@@ -1,0 +1,14 @@
+# example of the run scrpt for running the word count
+
+# first i'll load all my dependencies
+# install java
+# set java path
+# next i'll make sure that all my program which i written in java in these example have the proper permissions
+
+# javac my_word_count.java
+# javac my_running_median.java
+./src/*
+
+#finally i'll execute my program wiith the input directory wc_input and output the fles in the drecotry wc_output
+# java my_word_count
+# java my_running_median
